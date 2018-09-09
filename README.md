@@ -30,4 +30,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact Me
 
-Email: JayMat96@yahoo.com
+-Email: JayMat96@yahoo.com
+-LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jalen-mojica-948753125/)
