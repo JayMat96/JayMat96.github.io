@@ -11,8 +11,12 @@ Looking at the Heroku Flow, it's pretty easy to be able to do this with just Git
 # Heroku Use in Testing Environments
 
 ## Development Environment
+  
+  Heroku ChatOps and the Release Phase sections of the Heoku Flow would work well in the Developemt. Heroku ChatOps lets developers communictate with each other over any changes made. Release Phase lets the developers test any changes before adding them to the master build.
 
 ## QA Environment
+
+  Release Phase is a good fit for the QA testing environment. You can have testers check the most recent version of a project and look for any problems, before finalizing any changes.
 
 ## Staging/Pilot Environment
 
