@@ -12,7 +12,7 @@ Looking at the Heroku Flow, it's pretty easy to be able to do this with just Git
 
 ## Development Environment
   
-  Heroku ChatOps and the Release Phase sections of the Heoku Flow would work well in the Developemt. Heroku ChatOps lets developers communictate with each other over any changes made. Release Phase lets the developers test any changes before adding them to the master build.
+  Heroku ChatOps and the Review Apps tools would work well in the Developemt environment. Heroku ChatOps lets developers communictate with each other over any changes made. Review Apps lets the developers test any changes before adding them to the master build.
 
 ## QA Environment
 
