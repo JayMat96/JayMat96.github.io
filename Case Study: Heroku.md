@@ -2,6 +2,8 @@ Research and review the various ways you could use Heroku to implement a CI solu
 
 Starting Reference: https://www.heroku.com/flow
 
+You can find a CI (Continous Integration) solution by following the Heroku Flow. The Heroku Flow starts with Heroku Pipelines. Heroku Pipelines organizes a group of Heroku apps sharing the same codebase and places them into their proper testing environments to ensure continuous delivery. Heroku CI works alongside Heruko Pipelines to provide continuous integration and delivery. Heroku CI runs your test scripts, using disposable apps that flow well with your staging and production testing environments. 
+
 ## Development Environment
 
 ## QA Environment
