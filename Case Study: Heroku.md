@@ -1,4 +1,4 @@
-Document a possible approach on how to use it for your next "online game project". Submit this as a .md page on your github.io site.
+Document a possible approach on how to use it for your next "online game project".
 
 Starting Reference: https://www.heroku.com/flow
 
@@ -27,3 +27,5 @@ Following the Heroku Flow ensures that the project is always being worked on, an
 ## Production Environment
 
   Release Phase is a perfect fit for the production testing environment since it handles the most up-to-date version of a product. You can have testers test the most current and possibly final build of the project.
+  
+  # Use for Project
