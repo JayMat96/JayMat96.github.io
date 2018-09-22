@@ -10,7 +10,7 @@ My name is Jalen Mojica. I am currently a student at Northwest Vista College nea
 
 * [Respawn-Review](https://github.com/JayMat96/Respawn-Review)
 * [Shadowless-Review](https://github.com/JayMat96/Shadowless-Review)
-* [Game Critique] ()
+* [Game Critique] (https://github.com/JayMat96/Game-Critique)
 
 
 ### Contact Me
