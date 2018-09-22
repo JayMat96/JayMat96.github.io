@@ -33,3 +33,5 @@ Following the Heroku Flow ensures that the project is always being worked on, an
 Looking at what Heroku has to offer, most of the techniques and tools can be done with GitHub. One exception is the Review App. It might be possible to create a Review App, but it will not be as simple or fast as by using Heroku. We can always make a seperate branch to work on the project and test, before applying it to the master branch. 
 
 GitHub does have it's own version of Heroku ChatOps making communuication within the group easy. So long as everyone is checking what changes have been made before starting work, we should do fine. This is to ensure that no one is wasting time by working on something that another team member is already working on or contradicting another team member's work.
+
+As long as we communicate with each other, perform our assigned tasks, and check our project's status, we will have a complete project in time.
