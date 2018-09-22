@@ -8,6 +8,8 @@ You can find a CI (Continous Integration) solution by following the Heroku Flow.
 
 Looking at the Heroku Flow, it's pretty easy to be able to do this with just GitHub.
 
+# Heroku Use in Testing Environments
+
 ## Development Environment
 
 ## QA Environment
