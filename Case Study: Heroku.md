@@ -1,4 +1,4 @@
-Research and review the various ways you could use Heroku to implement a CI solution. Describe where the various technologies Heroku has to offer fit into each of the testing environments. Document a possible approach on how to use it for your next "online game project". Submit this as a .md page on your github.io site.
+Document a possible approach on how to use it for your next "online game project". Submit this as a .md page on your github.io site.
 
 Starting Reference: https://www.heroku.com/flow
 
@@ -12,13 +12,16 @@ Looking at the Heroku Flow, it's pretty easy to be able to do this with just Git
 
 ## Development Environment
   
-  Heroku ChatOps and the Review Apps tools would work well in the Developemt environment. Heroku ChatOps lets developers communictate with each other over any changes made. Review Apps lets the developers test any changes before adding them to the master build.
+  Heroku ChatOps and the Review App tools would work well in the Developemt environment. Heroku ChatOps lets developers communictate with each other over any changes made. Review Apps lets the developers test any changes before adding them to the master build.
 
 ## QA Environment
 
-  Release Phase is a good fit for the QA testing environment. You can have testers check the most recent version of a project and look for any problems, before finalizing any changes.
+  A Review App is a good tool for the QA testing environment. You can have testers check the most recent version of a project and look for any problems, before finalizing any changes. Using the Review App, you can focus only on the new changes made.
 
 ## Staging/Pilot Environment
 
+  You can use a combination of the Review App and Heroku ChatOps tools for the Staging/Pilot Environment. Since Staging/Pilot environment works as a Pre-Production environment, you can use both tools to bridge the gap between the final version of the build and the earlier version. Developers can communicate with each other over what changes are made in response to the QA testing environment.
+
 ## Production Environment
 
+  Release Phase is a perfect fit for the production testing environment since it handles the most up-to-date version of a product. You can have testers test the most current and possibly final build of the project.
