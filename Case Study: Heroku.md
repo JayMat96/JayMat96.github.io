@@ -29,3 +29,7 @@ Following the Heroku Flow ensures that the project is always being worked on, an
   Release Phase is a perfect fit for the production testing environment since it handles the most up-to-date version of a product. You can have testers test the most current and possibly final build of the project.
   
   # Use for Project
+
+Looking at what Heroku has to offer, most of the techniques and tools can be done with GitHub. One exception is the Review App. It might be possible to create a Review App, but it will not be as simple or fast as by using Heroku. We can always make a seperate branch to work on the project and test, before applying it to the master branch. 
+
+GitHub does have it's own version of Heroku ChatOps making communuication within the group easy. So long as everyone is checking what changes have been made before starting work, we should do fine. This is to ensure that no one is wasting time by working on something that another team member is already working on or contradicting another team member's work.
