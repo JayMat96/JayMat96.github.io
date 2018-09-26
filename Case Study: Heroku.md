@@ -12,7 +12,17 @@ Following the Heroku Flow ensures that the project is always being worked on, an
 
 # Different Testing Types and Heroku
 
+## Heroku Pipelines
 
+## Heroku CI
+
+## Review Apps
+
+## GitHub Integration
+
+## Heroku ChatOps
+
+## Release Phase
 
 # Heroku Use in Testing Environments
 
