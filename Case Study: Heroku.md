@@ -14,15 +14,27 @@ Following the Heroku Flow ensures that the project is always being worked on, an
 
 ## Heroku Pipelines
 
+
+
 ## Heroku CI
+
+Unit Testing, White Box Testing,
 
 ## Review Apps
 
+Regression Testing, Automated Testing, Unit Testing, White Box Testing, Black Box Testing, 
+
 ## GitHub Integration
+
+Automated Testing, White Box Testing,
 
 ## Heroku ChatOps
 
+Unit Testing, Integration Testing, White Box Testing,
+
 ## Release Phase
+
+System Testing, Acceptance Testing,  Integration Testing, Black Box Testing,
 
 # Heroku Use in Testing Environments
 
