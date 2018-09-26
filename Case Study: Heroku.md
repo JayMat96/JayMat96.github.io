@@ -10,6 +10,10 @@ You can find a CI (Continous Integration) solution by following the Heroku Flow.
 
 Following the Heroku Flow ensures that the project is always being worked on, and that the developers working on it always know the status of the project.
 
+# Different Testing Types and Heroku
+
+
+
 # Heroku Use in Testing Environments
 
 ## Development Environment
