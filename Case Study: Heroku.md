@@ -1,4 +1,4 @@
-Document a possible approach on how to use it for your next "online game project".
+Which Testing Types can be used in the different sections of the Heroku Flow?
 
 Starting Reference: https://www.heroku.com/flow
 
