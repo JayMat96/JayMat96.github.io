@@ -12,29 +12,25 @@ Following the Heroku Flow ensures that the project is always being worked on, an
 
 # Different Testing Types and Heroku
 
-## Heroku Pipelines
-
-
-
 ## Heroku CI
 
-Unit Testing, White Box Testing,
+Unit Testing, White Box Testing, Compatability Testing, Functional Testing,
 
 ## Review Apps
 
-Regression Testing, Automated Testing, Unit Testing, White Box Testing, Black Box Testing, 
+Regression Testing, Automated Testing, Unit Testing, White Box Testing, Black Box Testing, Compatability Testing, Functional Testing, Negative Testing, 
 
 ## GitHub Integration
 
-Automated Testing, White Box Testing,
+Automated Testing, White Box Testing, Compatability Testing, Functional Testing,
 
 ## Heroku ChatOps
 
-Unit Testing, Integration Testing, White Box Testing,
+Unit Testing, Integration Testing, White Box Testing, Functional Testing,
 
 ## Release Phase
 
-System Testing, Acceptance Testing,  Integration Testing, Black Box Testing,
+System Testing, Acceptance Testing, Integration Testing, Black Box Testing, Compatability Testing, Functional Testing, Negative Testing, 
 
 # Heroku Use in Testing Environments
 
