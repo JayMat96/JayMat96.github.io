@@ -14,7 +14,7 @@ Following the Heroku Flow ensures that the project is always being worked on, an
 
 ## Heroku CI
 
-Unit Testing, White Box Testing, Compatability Testing, Functional Testing, Smoke Testing, 
+The Heroku Continous Integration section of the Heroku Flow would use Unit Testing, White Box Testing, Functional Testing, and Smoke Testing to perform it's tasks. White Box testing is used since, at this point in the flow, the program would not be ready for outside testers. Since Heroku CI runs test quickly with low configuration, Smoke testing is best used in this segment. Functional Testing is also a good testing type to use here, since it's main purpose is to ensure that the program performs its intended function. Unit Testing is the last step needed before moving forward in the Testing Environment. Much like Functional Testing, Unit Testing makes sure the program is working as intended before moving into system integration.
 
 ## Review Apps
 
@@ -36,7 +36,7 @@ System Testing, Acceptance Testing, Integration Testing, Black Box Testing, Comp
 
 ## Development Environment
   
-  Heroku ChatOps and the Review App tools would work well in the Developemt environment. Heroku ChatOps lets developers communictate with each other over any changes made. Review Apps lets the developers test any changes before adding them to the master build.
+  Heroku CI, Heroku ChatOps and the Review App tools would work well in the Developemt environment. Heroku ChatOps lets developers communictate with each other over any changes made. Review Apps lets the developers test any changes before adding them to the master build. Heroku CI runs the program quickly to make sure it is working properly.
 
 ## QA Environment
 
