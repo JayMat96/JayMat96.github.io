@@ -22,11 +22,11 @@ Heroku can automatically create a Review App, which itself is auto-updated with 
 
 ## Heroku ChatOps
 
-Heroku ChatOps would use White Box Testing. This is because Heroku ChatOps allows people working on the project to communicate with each other and discuss what changes need to be made. To do that, you need people who are aware of what the end product's functions are. To best communicate what works and what needs to be changed, testers should use Unit Testing, Functional Testing, and Smoke Testing. All of these check whether or not the program works. Integration Testing also does this, but checks if the program works on other systems, browsers, and operating systems, so it should be done here as well.
+Heroku ChatOps would use White Box Testing. This is because Heroku ChatOps allows people working on the project to communicate with each other and discuss what changes need to be made. To do that, you need people who are aware of what the end product's functions are. To best communicate what works and what needs to be changed, testers should use Unit Testing, Functional Testing, and Smoke Testing. All of these check whether or not the program works. Integration Testing is the final testing needed before moving the program into it's final stage. It should be done to make sure the entire program works as intended before moving onto Black Box Testing done in the Release Phase.
 
 ## Release Phase
 
-System Testing, Acceptance Testing, Integration Testing, Black Box Testing, Compatability Testing, Functional Testing, Negative Testing, Perfomance Testing, Stress Testing
+The final step of the Heroku Flow has the most up-to-date version of the product. It may very well be the final version. Because of this, there needs to be an emphasis on Black Box Testing. Conformance Testing must also occur, to make sure the end product meets industry standards and does not break any laws or regulations. Compatability Testing checks if the program works on other systems, browsers, and operating systems, so it should be done here as well. , Functional Testing, Negative Testing, Perfomance Testing, Stress Testing, System Testing, Acceptance Testing, Integration Testing, 
 
 # Heroku Use in Testing Environments
 
