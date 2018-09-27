@@ -26,7 +26,7 @@ Heroku ChatOps would use White Box Testing. This is because Heroku ChatOps allow
 
 ## Release Phase
 
-The final step of the Heroku Flow has the most up-to-date version of the product. It may very well be the final version. Because of this, there needs to be an emphasis on Black Box Testing. Conformance Testing must also occur, to make sure the end product meets industry standards and does not break any laws or regulations. Compatability Testing checks if the program works on other systems, browsers, and operating systems, so it should be done here as well. , Functional Testing, Negative Testing, Perfomance Testing, Stress Testing, System Testing, Acceptance Testing, Integration Testing, 
+The final step of the Heroku Flow has the most up-to-date version of the product. It may very well be the final version. Because of this, there needs to be an emphasis on Black Box Testing. Conformance Testing must also occur, to make sure the end product meets industry standards and does not break any laws or regulations. Functional Testing, Negative Testing, Perfomance Testing, Stress Testing, System Testing. Compatability Testing checks if the program works on other systems, browsers, and operating systems, so it should be done here as well. We end the Release Phase with Integration Testing and Acceptance testing, since these both make sure that the program works as intended.
 
 # Heroku Use in Testing Environments
 
