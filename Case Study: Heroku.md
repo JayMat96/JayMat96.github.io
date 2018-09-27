@@ -14,23 +14,23 @@ Following the Heroku Flow ensures that the project is always being worked on, an
 
 ## Heroku CI
 
-Unit Testing, White Box Testing, Compatability Testing, Functional Testing,
+Unit Testing, White Box Testing, Compatability Testing, Functional Testing, Smoke Testing, 
 
 ## Review Apps
 
-Regression Testing, Automated Testing, Unit Testing, White Box Testing, Black Box Testing, Compatability Testing, Functional Testing, Negative Testing, 
+Regression Testing, Automated Testing, Unit Testing, White Box Testing, Black Box Testing, Compatability Testing, Functional Testing, Negative Testing, Smoke Testing, Perfomance Testing, Stress Testing
 
 ## GitHub Integration
 
-Automated Testing, White Box Testing, Compatability Testing, Functional Testing,
+Automated Testing, White Box Testing, Compatability Testing, Functional Testing, Performance Testing, Regression Testing, Stress Testing
 
 ## Heroku ChatOps
 
-Unit Testing, Integration Testing, White Box Testing, Functional Testing,
+Unit Testing, Integration Testing, White Box Testing, Functional Testing, Smoke Testing
 
 ## Release Phase
 
-System Testing, Acceptance Testing, Integration Testing, Black Box Testing, Compatability Testing, Functional Testing, Negative Testing, 
+System Testing, Acceptance Testing, Integration Testing, Black Box Testing, Compatability Testing, Functional Testing, Negative Testing, Perfomance Testing, Stress Testing
 
 # Heroku Use in Testing Environments
 
