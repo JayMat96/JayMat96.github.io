@@ -22,7 +22,7 @@ Heroku can automatically create a Review App, which itself is auto-updated with 
 
 ## Heroku ChatOps
 
-Unit Testing, Integration Testing, White Box Testing, Functional Testing, Smoke Testing
+Heroku ChatOps would use White Box Testing. This is because Heroku ChatOps allows people working on the project to communicate with each other and discuss what changes need to be made. To do that, you need people who are aware of what the end product's functions are. To best communicate what works and what needs to be changed, testers should use Unit Testing, Functional Testing, and Smoke Testing. All of these check whether or not the program works. Integration Testing also does this, but checks if the program works on other systems, browsers, and operating systems, so it should be done here as well.
 
 ## Release Phase
 
