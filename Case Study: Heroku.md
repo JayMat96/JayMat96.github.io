@@ -1,7 +1,3 @@
-Which Testing Types can be used in the different sections of the Heroku Flow?
-
-Starting Reference: https://www.heroku.com/flow
-
 # Research and Review
 
 CI stands for Continous Integration. It is a software engineering practice in which isolated changes are immediately tested and reported on when they are added to a larger code base.
