@@ -20,10 +20,6 @@ The Heroku Continous Integration section of the Heroku Flow would use Unit Testi
 
 Heroku can automatically create a Review App, which itself is auto-updated with each new commit. This means that Automated Testing can be performed in this section of the Heroku Flow. Regression Testing is used here to make sure every new version of the program is working properly, without losing any of the functions prior versions had. Since a Review App is a quick application made out of the current version of the program, you can have both Black Box and White Box Testing done here. Thanks to a Review App being a quickly made, ready-to-use version of the current program, Unit Testing, Compatability Testing, Functional Testing, Negative Testing, Smoke Testing, Perfomance Testing, and Stress Testing can all be performed here as well. You can test what the limits are of your current program, and quickly test to make sure it is running properly.
 
-## GitHub Integration
-
-Automated Testing, White Box Testing, Compatability Testing, Functional Testing, Performance Testing, Regression Testing, Stress Testing
-
 ## Heroku ChatOps
 
 Unit Testing, Integration Testing, White Box Testing, Functional Testing, Smoke Testing
