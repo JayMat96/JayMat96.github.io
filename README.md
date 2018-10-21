@@ -11,6 +11,7 @@ My name is Jalen Mojica. I am currently a student at Northwest Vista College nea
 * [Respawn-Review](https://github.com/JayMat96/Respawn-Review)
 * [Shadowless-Review](https://github.com/JayMat96/Shadowless-Review)
 * [The Raven-Review](https://github.com/JayMat96/The-Raven-Review)
+* [Unpuzzle-Review](https://github.com/JayMat96/Unpuzzle-Review)
 * [Game Critique: A Hat in Time](https://github.com/JayMat96/Game-Critique)
 * [Case Study: Heroku](https://github.com/JayMat96/JayMat96.github.io/blob/master/Case%20Study:%20Heroku.md)
 
