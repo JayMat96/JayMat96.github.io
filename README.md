@@ -19,6 +19,7 @@ My name is Jalen Mojica. I am currently a student at Northwest Vista College nea
 ### Game Critiques
 * [Game Critique: A Hat in Time](https://github.com/JayMat96/Game-Critique)
 * [Game Critique: Luigi's Mansion](https://github.com/JayMat96/Game-Critique-Luigi-s-Mansion)
+* [Game Critique: Marvel's Spider-Man: The Heist](https://github.com/JayMat96/Game-Critique-Spider-Man-The-Heist-/blob/master/README.md)
 
 ### Miscellaneous
 * [Case Study: Heroku](https://github.com/JayMat96/JayMat96.github.io/blob/master/Case%20Study:%20Heroku.md)
