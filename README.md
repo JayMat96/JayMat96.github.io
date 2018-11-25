@@ -29,4 +29,4 @@ My name is Jalen Mojica. I am currently a student at Northwest Vista College nea
 ## Contact Me
 
 * Email: JayMat96@yahoo.com
-* LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jalen-mojica-948753125/)
+* [LinkedIn Profile](https://www.linkedin.com/in/jalen-mojica-948753125/)
