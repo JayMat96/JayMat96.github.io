@@ -15,6 +15,7 @@ My name is Jalen Mojica. I am currently a student at Northwest Vista College nea
 * [The Raven-Review](https://github.com/JayMat96/The-Raven-Review)
 * [Unpuzzle-Review](https://github.com/JayMat96/Unpuzzle-Review)
 * [Call of Duty: Black Ops III-Review](https://github.com/JayMat96/Call-of-Duty-Black-Ops-III-Review)
+* [Nelly-Review](https://github.com/JayMat96/Nelly-Review/blob/master/README.md)
 
 ### Game Critiques
 * [Game Critique: A Hat in Time](https://github.com/JayMat96/Game-Critique)
